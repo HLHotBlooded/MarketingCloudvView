@@ -20,7 +20,7 @@ const features = [
                 Ahoj! My name is Mateusz Dąbrowski. I'm Marketing Cloud Architect and Salesforce MVP. I find joy in telling the code to do my job. Got questions, suggestions or want to get in touch?
             </>
         ),
-        url: 'https://www.linkedin.com/in/mateusz-dabrowski-marketing/',
+        url: 'https://www.linkedin.com/in/%E2%98%81%EF%B8%8Fherlin-zhong-19741a166/',
         cta: <>Let's Connect</>,
     },
     {
@@ -83,9 +83,9 @@ function Home() {
                 <meta name="HandheldFriendly" content="True" />
                 <meta name="referrer" content="unsafe-url" />
 
-                <link rel="canonical" href="https://mateuszdabrowski.pl/" />
+                <link rel="canonical" href="https://marketingcloudview.vercel.app/" />
 
-                <meta property="og:url" content="https://mateuszdabrowski.pl/" />
+                <meta property="og:url" content="https://marketingcloudview.vercel.app/" />
                 <meta property="og:image" content="/img/logotyp-og.png" />
                 <meta property="og:image:type" content="image/png" />
                 <meta property="og:image:width" content="1500" />

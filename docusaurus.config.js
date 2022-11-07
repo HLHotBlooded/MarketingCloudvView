@@ -1,20 +1,20 @@
 /* eslint-disable global-require */
 module.exports = {
-    title: 'Mateusz Dąbrowski',
+    title: 'MCHerlin',
     tagline: 'Automate Marketing Automation',
     url: 'https://marketingcloudview.herokuapp.com/',
     baseUrl: '/',
     trailingSlash: true,
     favicon: 'img/favicon.ico',
-    organizationName: 'MateuszDabrowski',
-    projectName: 'mateuszdabrowski.pl',
+    organizationName: 'Herlin',
+    projectName: 'MCHerlin',
     onBrokenLinks: 'warn',
     onBrokenMarkdownLinks: 'warn',
     customFields: {
         description: 'Personal website focused on making the most out of Salesforce Marketing Cloud. let code = do("our job").',
         keywords: [
-            'Mateusz Dąbrowski',
-            'mateuszdabrowski',
+            'MC',
+            'Herlin',
             'Marketing Cloud',
             'Salesforce Marketing Cloud',
             'SFMC',
@@ -30,7 +30,7 @@ module.exports = {
         defaultMode: 'dark',
         respectPrefersColorScheme: true,
         metadata: [
-            { name: 'author', content: 'Mateusz Dąbrowski' },
+            { name: 'author', content: 'Herlin Zhong' },
             { name: 'theme-color', content: '#212121' },
             { name: 'msapplication-TileColor', content: '#F6B355' },
         ],
@@ -43,7 +43,7 @@ module.exports = {
         // },
         navbar: {
             logo: {
-                alt: 'Mateusz Dąbrowski Logo',
+                alt: 'Herlin Logo',
                 src: 'img/logo-horizontal-light-2x.png',
                 srcDark: 'img/logo-horizontal-dark-2x.png',
             },
@@ -106,25 +106,25 @@ module.exports = {
                     position: 'left',
                 },
                 {
-                    href: 'https://www.linkedin.com/in/mateusz-dabrowski-marketing',
+                    href: 'https://www.linkedin.com/in/%E2%98%81%EF%B8%8Fherlin-zhong-19741a166/',
                     position: 'right',
                     className: 'header-linkedin-link',
                     'aria-label': 'LinkedIn Profile',
                 },
                 {
-                    href: 'https://twitter.com/MDabrowskiPL',
+                    href: 'https://twitter.com/herlin',
                     position: 'right',
                     className: 'header-twitter-link',
                     'aria-label': 'Twitter Profile',
                 },
                 {
-                    href: 'https://trailblazer.me/id/madabrowski',
+                    href: 'https://trailblazer.me/id/herlin',
                     position: 'right',
                     className: 'header-salesforce-link',
                     'aria-label': 'Trailblazer Profile',
                 },
                 {
-                    href: 'https://github.com/MateuszDabrowski',
+                    href: 'https://github.com/HLHotBlooded',
                     position: 'right',
                     className: 'header-github-link',
                     'aria-label': 'GitHub repository',
