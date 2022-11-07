@@ -17,7 +17,7 @@ const features = [
         imageUrl: 'img/md_hoodie_icon.png',
         description: (
             <>
-                Ahoj! My name is Mateusz Dąbrowski. I'm Marketing Cloud Architect and Salesforce MVP. I find joy in telling the code to do my job. Got questions, suggestions or want to get in touch?
+                Ahoj! My name is Herlin. I'm Marketing Cloud Architect and Salesforce MVP. I find joy in telling the code to do my job. Got questions, suggestions or want to get in touch?
             </>
         ),
         url: 'https://www.linkedin.com/in/%E2%98%81%EF%B8%8Fherlin-zhong-19741a166/',
@@ -79,7 +79,7 @@ function Home() {
     return (
         <>
             <Head>
-                <meta name="author" content="Mateusz Dąbrowski" />
+                <meta name="author" content="Herlin ZHong" />
                 <meta name="HandheldFriendly" content="True" />
                 <meta name="referrer" content="unsafe-url" />
 
